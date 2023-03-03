@@ -3,7 +3,7 @@
 # If you encounter any problems, you can contact sheeplin0605@163.com
 # You can download the pipeline and test the example with work.sh
 
-tar zxf fst-pi-selective_analysis.tar.gz
-cd fst-pi-selective_analysis
-cd example_test
+#tar zxf fst-pi-selective_analysis.tar.gz
+#cd fst-pi-selective_analysis
+#cd example_test
 
